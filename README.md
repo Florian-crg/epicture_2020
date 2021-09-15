@@ -30,7 +30,7 @@ what is needed
 "/>
 </div>
 
-Contributors : Reda Lamini - [Florian Cargouët](https://www.cargouet.com)
+Contributors : Reda Lamini - [Florian Cargouët](https://www.cargouet.com "Main contributor' website")
 
 
 
