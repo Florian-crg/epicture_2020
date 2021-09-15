@@ -29,6 +29,6 @@ what is needed
   <img src="https://i.imgur.com/DrLlQL0.png" alt="API imgur epicture github 2020" width="30%" style="flex : 1;margin : 0 5%;align-self: stretch;
 "/>
 </div>
-Contributors : Reda Lamini - Florian Cargouët
+Contributors : Reda Lamini - (Florian Cargouët)[https://cargouet.com]
 
 <sup>Allowed Time: 13/01/2020, 09:00 am TO 09/02/2020, 11:42 pm</sup>
