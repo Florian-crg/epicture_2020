@@ -1,9 +1,9 @@
-# Epicture 2020
+# Epicture
 Epicture is a school project from Epitech.
 The goal of this project is to use and implement online photo sharing API platforms
 We had to create a photo finder and browsing application from the following platform: Imgur
 
-## Epicture project
+## Epicture 2020 project
 
 A photo finder / browsing app
 This is an application which will re-create an Imgur application.The goal of the project is to catch a sight of mobile app developement.
