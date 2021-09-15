@@ -30,6 +30,7 @@ what is needed
 "/>
 </div>
 Contributors : Reda Lamini - [Florian Cargouët](https://www.cargouet.com)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 
 <sup>Allowed Time: 13/01/2020, 09:00 am TO 09/02/2020, 11:42 pm</sup>
